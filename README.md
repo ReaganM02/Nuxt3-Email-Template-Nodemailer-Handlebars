@@ -1,6 +1,5 @@
-# Nuxt 3 Minimal Starter
-
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Send email using Nodemailer and Handlebars modules
+Create a customizable email template using the Handlebars module and send emails using the Nodemailer module. In this example, I am using Gmail as my transporter, but you can use any transporter of your choice.
 
 ## Setup
 
