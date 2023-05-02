@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.6.7",
+    "@types/node": "^18",
+    "@types/nodemailer": "^6.4.7",
+    "nuxt": "^3.4.3"
+  },
+  "dependencies": {
+    "@formkit/nuxt": "^0.16.5",
+    "@formkit/themes": "^0.16.5",
+    "handlebars": "^4.7.7",
+    "nodemailer": "^6.9.1"
+  }
+}
